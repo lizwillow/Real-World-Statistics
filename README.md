@@ -12,4 +12,17 @@ Real world examples to motivate discussion in undergraduate statistics courses.
 * [The issue with pie charts](https://www.data-to-viz.com/caveat/pie.html)
 * [Alternatives to pie charts](https://dataviz.love/2017/03/17/alternative-chart-types-pie-chart/)
 
-### 
+### Estimating Proportions and Simple Random Sampling
+* [Why we need more coronavirus tests than we think we need](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01398)
+
+### Confidence Intervals and Paired Samples
+* [Nike's Fastest Shoes May Give Runners an Even Bigger Advantage Than We Thought](https://www.nytimes.com/interactive/2019/12/13/upshot/nike-vaporfly-next-percent-shoe-estimates.html)
+
+### Hypothesis Testing
+* [That's not a two-sided test! It's two one-sided tests!](https://www.researchgate.net/publication/341725597_That%27s_Not_a_Two-Sided_Test_It%27s_Two_One-Sided_Tests)
+
+### Outliers
+* [What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer](https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html)
+
+## General Resources
+* [Allison Horst's statistics and R art](https://github.com/allisonhorst/stats-illustrations)
