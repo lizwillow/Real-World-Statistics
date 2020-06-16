@@ -40,8 +40,8 @@ Real news articles and other resources to motivate discussion in undergraduate s
 
 ### Bayes' Theorem
 * Where did Bayes' Theorem come from? "Thomas Bayes (1701 — 1761) was an English theologian and mathematician." 
- * [2019 - Probability Learning I : Bayes’ Theorem](https://towardsdatascience.com/probability-learning-i-bayes-theorem-708a4c02909a)
- * [2019 - Probability Learning II: How Bayes’ Theorem is applied in Machine Learning](https://towardsdatascience.com/probability-learning-ii-how-bayes-theorem-is-applied-in-machine-learning-bd747a960962)
+  * [2019 - Probability Learning I : Bayes’ Theorem](https://towardsdatascience.com/probability-learning-i-bayes-theorem-708a4c02909a)
+  * [2019 - Probability Learning II: How Bayes’ Theorem is applied in Machine Learning](https://towardsdatascience.com/probability-learning-ii-how-bayes-theorem-is-applied-in-machine-learning-bd747a960962)
 
 ### Hypergeometric Distribution
 * [2020 - Using the Hypergeometric distribution in the Magic game](https://mtgazone.com/a-guide-to-hypergeometric-calculators/)
