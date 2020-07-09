@@ -22,6 +22,9 @@ Real news articles and other resources to motivate discussion in undergraduate s
 ### Hypothesis Testing
 * [2020 - That's not a two-sided test! It's two one-sided tests!](https://www.researchgate.net/publication/341725597_That%27s_Not_a_Two-Sided_Test_It%27s_Two_One-Sided_Tests)
 
+### Standard Normal Distribution and Z Scores
+* [2020 - Anomaly Detection with Machine Learning](https://www.ericsson.com/en/blog/2020/4/anomaly-detection-with-machine-learning)
+
 ### Outliers
 * [2017 - What Explains U.S. Mass Shootings? International Comparisons Suggest an Answer](https://www.nytimes.com/2017/11/07/world/americas/mass-shootings-us-international.html)
 
