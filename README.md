@@ -1,6 +1,8 @@
 # Real-World-Statistics
 Real news articles and other resources to motivate discussion in undergraduate statistics courses.
 
+New news cite: [https://realworlddatascience.net/](https://realworlddatascience.net/)
+
 ## STAT 200: Introductory Statistics
 
 ### Visual Representations
